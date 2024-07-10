@@ -1,4 +1,6 @@
-# Policy on the Use of Generative AI Tools
+---
+title: Policy on the use of Generative AI Tools
+---
 
 Policy on the Use of Generative AI Tools for Computing Sciences and Mathematics @ Franklin University
 
