@@ -1,7 +1,3 @@
----
-title: false
----
-
 # Policy on the Use of Generative AI Tools
 
 Policy on the Use of Generative AI Tools for Computing Sciences and Mathematics @ Franklin University
