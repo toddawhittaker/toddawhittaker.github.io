@@ -1,6 +1,8 @@
 ---
-title: Policy on the Use of Generative AI Tools
+title: false
 ---
+
+# Policy on the Use of Generative AI Tools
 
 Policy on the Use of Generative AI Tools for Computing Sciences and Mathematics @ Franklin University
 
@@ -33,7 +35,7 @@ Here are some examples of permitted and prohibited prompts. Notice that the dist
 If you wish, you can interact with a [custom GPT](https://chatgpt.com/g/g-4duNViDGC-generative-ai-usage-policy-checker) that will answer questions about possible scenarios (an OpenAI account is required). Although this GPT is _not_ authoritative, it can answer basic questions in a remarkable number of situations. Here are some examples using the scenarios above showing how it answers.
 
 ## Prohibited example
-![AI use prohibited screenshot](/docs/assets/AI_use_prohibited.png)
+![AI use prohibited screenshot](./assets/AI_use_prohibited.png)
 
 ## Permitted example
-![AI use permitted screenshot](/docs/assets/AI_use_permitted.png)
+![AI use permitted screenshot](./assets/AI_use_permitted.png)
