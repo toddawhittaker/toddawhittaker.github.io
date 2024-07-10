@@ -1,8 +1,6 @@
----
-title: Policy on the use of Generative AI Tools
----
+# Policy on the use of Generative AI Tools
 
-Policy on the Use of Generative AI Tools for Computing Sciences and Mathematics @ Franklin University
+*Department of Computing Sciences and Mathematics at Franklin University*
 
 In this course, the use of generative AI tools such as ChatGPT, Copilot, Claude, Gemini, Mathway, Symbolab, Photomath, GrammarlyGo, and similar technologies is strictly forbidden for completing assignments unless specifically permitted or required per the instructions in the task. Relying on these tools to complete your work for you undermines your learning and development. This policy is grounded in the belief that the core goal of education is to foster independent thinking, problem-solving, and the development of foundational skills in reading, research, writing, mathematics, statistics, and programming.
 
