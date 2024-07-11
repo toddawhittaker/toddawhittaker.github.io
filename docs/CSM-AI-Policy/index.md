@@ -17,13 +17,13 @@ Here are some examples of permitted and prohibited prompts. Notice that the dist
 
 | Permitted prompts | Prohibited prompts |
 | --- | --- |
-| Explain the concept of polymorphism in object-oriented programming with examples. | Write Java code for a Cat class extends and Animal class and has a polymorphic toString() method. |
+| Explain the concept of polymorphism in object-oriented programming with examples. | Write Java code for a `Cat` class extends and `Animal` class and has a polymorphic `toString()` method. |
 | How does the QuickSort algorithm work? Provide a step-by-step explanation. | Write a Python function that takes an array of integers and sorts it using QuickSort. |
 | What are some innovative project ideas for a data analytics capstone project? | Write a project proposal for a data analytics capstone project in which we predict future sales for a retail company using historical data, economic indicators and seasonal trends to improve management and marketing strategies. |
-| How do I join two tables and filter the results in SQL? | Write the SQL code to join the Customer and Order table based on the customer’s ID. Show only results where the order’s total amount is more than $100.00 |
+| How do I join two tables and filter the results in SQL? | Write the SQL code to join the `Customer` and `Order` table based on the `customer_id` key. Show only results where the order’s `total_amount` is more than $100.00 |
 | I'm getting a null pointer exception for my Java code. What causes a null pointer exception and how would I fix it in general? | I'm getting a null pointer exception in line 8 of the following Java code. Debug this code to fix the exception. |
 | What are the key characteristics of the graph of a polynomial function? How do changes in coefficients affect its shape? | Determine the vertex and axis of symmetry for the quadratic function f(x) = -3x² + 6x - 2. Show step-by-step work. |
-| How do you interpret a p-value in hypothesis testing? Provide a detailed explanation. | Perform a t-test on the following two samples and determine if there is a significant difference. Provide a detailed interpretation of the results and the steps performed. Sample 1: [5, 7, 8, 6, 7], Sample 2: [10, 9, 11, 12, 10]. |
+| How do you interpret a *p*-value in hypothesis testing? Provide a detailed explanation. | Perform a *t*-test on the following two samples and determine if there is a significant difference. Provide a detailed interpretation of the results and the steps performed. Sample 1: `[5, 7, 8, 6, 7]`, Sample 2: `[10, 9, 11, 12, 10]`. |
 | I have an exam that includes topics in database normalization. Can you generate 5 possible normalization questions/scenarios for me so that I can practice answering? | Here is a table of data for a normalization scenario. Show me the steps for bringing this design into 3NF. |
 
 # Tools
