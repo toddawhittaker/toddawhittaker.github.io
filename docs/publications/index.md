@@ -13,12 +13,17 @@ title: Publications
 
 ## Conference proceedings
 
+- Li, J., Chu, C., & Whittaker, T. (2024). Identifying interpretable features impacting nontraditional undergraduate computer science student retention. In *2024 IEEE Frontiers in Education Conference (FIE)* (pp. 1–9). IEEE.
 - Karabacak, B., & Whittaker, T. (2022). Zero trust and advanced persistent threats: Who will win the war? In *Proceedings of the 17th International Conference on Cyber Warfare and Security* (pp. 92–101).
-- Wood, R., Bonakdarian, E., & Whittaker, T. (2012). Designing courses for hybrid instruction: Principles and practice. *Journal of Computing Sciences in Colleges, 27*(4).
-- Whittaker, T., & Bonakdarian, E. (2011). Face-to-face experiences for online students: Effective, efficient, and engaging hybrid classes. *Journal of Computing Sciences in Colleges, 26*(4).
-- Bonakdarian, E., Whittaker, T., & Yang, Y. (2010). Mixing it up: More experiments in hybrid learning. *Journal of Computing Sciences in Colleges, 25*(4).
+- Wood, R., Bonakdarian, E., & Whittaker, T. (2012). Designing courses for hybrid instruction: Principles and practice. *Journal of Computing Sciences in Colleges, 27*(4), 6–14.
+- Whittaker, T., & Bonakdarian, E. (2011). Face-to-face experiences for online students: Effective, efficient, and engaging hybrid classes. *Journal of Computing Sciences in Colleges, 26*(4), 140–148.
+- Bonakdarian, E., Whittaker, T., & Yang, Y. (2010). Mixing it up: More experiments in hybrid learning. *Journal of Computing Sciences in Colleges, 25*(4), 97–103.
 - Bonakdarian, E., Whittaker, T., & Bell, D. (2009). Merging worlds: When virtual meets physical — an experiment with hybrid learning. *Journal of Computing Sciences in Colleges, 25*(1).
 - Whittaker, T., & Liszka, K. (1999, August). Parallel algorithms for the third extension of the sieve of Eratosthenes. In *Midwest Conference on Parallel Processing*. **Best Paper Award.**
+
+## Dissertation
+
+- Whittaker, T. A. (2019). *Factors influencing curriculum adoption in 2- and 4-year undergraduate cybersecurity programs* [Doctoral dissertation, Dakota State University].
 
 ## Posters and conference presentations
 
