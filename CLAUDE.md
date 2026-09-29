@@ -25,12 +25,12 @@ Never commit directly to `main`, and never merge into it without being asked.
 - `docs/_layouts/default.html` is the one page layout. It holds the header (with the GitHub profile photo on the home page only) and the site navigation, which is a hand-written list. Add a new page to that list.
 - `docs/assets/css/style.scss` is the whole stylesheet (IBM Plex Sans and Mono, light and dark colors). The empty front matter (`---` / `---`) at the top is required so Jekyll processes the file. GitHub Pages compiles it with an old Sass (Ruby Sass 3.7) that rejects CSS `clamp()` and `min()`, so wrap those in `unquote("...")`.
 - `docs/README.md` is the site's home page: a short biography and links to each sub-page.
-- Each sub-page lives in its own folder with an `index.md` and any images, so it is served at `/<folder>/`. Today these are `publications/`, `experience/`, `service/`, and `CSM-AI-Policy/` (the generative AI use policy for the Computing Sciences and Mathematics department at Franklin University). The biography, publications, experience, and service content comes from Todd's [Franklin faculty profile](https://www.franklin.edu/about-us/faculty-staff/faculty-profiles/whittaker-todd).
+- Each sub-page lives in its own folder with an `index.md` and any images, so it is served at `/<folder>/`. Today these are `experience/`, `teaching/`, `publications/`, `service/`, and `CSM-AI-Policy/` (the generative AI use policy for the Computing Sciences and Mathematics department at Franklin University). The biography and the experience, teaching, publications, and service pages come from Todd's [Franklin faculty profile](https://www.franklin.edu/about-us/faculty-staff/faculty-profiles/whittaker-todd) and his CV (`screenshots/Curriculum_Vitae.pdf`, which Git ignores and which must never be published). Leave off anything about Provenance Learning, his company, until Todd says otherwise. The navigation also links to his blog, [Layer 8 Learning](https://layer8learning.substack.com/).
 
 ## Conventions
 
 - To add a page, create `docs/<Name>/index.md`, then link it from `docs/README.md` and the navigation list in `docs/_layouts/default.html`.
-- A page starts with a `#` title and an italic subtitle line, then `##` sections. Tables with a date column take `{: .timeline}` after them.
+- A page starts with a `#` title and an italic subtitle line, then `##` sections. Tables with a date or course-number column take `{: .timeline}` after them. On the experience page, each role is a `###` heading followed by its dates and `{: .dates}`.
 - Pages use kramdown (Jekyll's default Markdown processor) extensions such as `{:target="_blank"}` to open links in a new tab.
 
 ## Previewing locally

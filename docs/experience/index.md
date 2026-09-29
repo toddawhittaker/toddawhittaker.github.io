@@ -4,32 +4,122 @@ title: Experience
 
 # Experience
 
-*Roles at Franklin University and earlier, and education*
+*Academic leadership, teaching, and industry work*
+
+## Selected achievements
+
+- Managed 10 full-time and 15 part-time faculty, and instructional operations for more than 1,200 students per semester.
+- Grew enrollment over six years by 67% in undergraduate programs and 100% in graduate programs.
+- Designed and launched five programs (the MS, BS, and AS in Cybersecurity, the MS in Information Technology, and the MS in Information Systems) and two graduate certificates (Cyber Defense and Cyber Governance). Guided faculty through three minors and two more undergraduate majors.
+- Developed TECH (Technology Engagement for Career Horizons), which builds co-curricular experiences, micro-internships, and employer projects into the curriculum.
+- Led the department's strategy on artificial intelligence and academic integrity through institutional policy, assessment design that holds up to AI, and AI tools that answer questions from course and program documents.
+- Ran program-health audits and cleaned up curriculum data, such as catalog corrections and prerequisite audits, so assessment is accurate and advising can be automated.
+- Built regional community and industry partnerships that turn academic capacity into employer-facing projects.
+- Mentored new chairs and adjunct faculty, chaired three doctoral dissertations, and led adjunct hiring, onboarding, and engagement during rapid growth.
+- Chair Franklin University's Career Connectedness Steering Committee, which coordinates four cross-functional workstreams linking curriculum, co-curricular learning, employer engagement, and student career outcomes.
 
 ## Franklin University
 
-| Years | Role |
-|---|---|
-| 2024–present | Assistant Dean, Computing Sciences and Mathematics, and Program Chair, MS Information Systems |
-| 2021–2024 | Department Chair, Computing Sciences and Mathematics, and Program Chair, Cybersecurity and MS Cybersecurity |
-| 2020–2021 | Department Chair, Computer Information Systems and Mathematics |
-| 2019–2021 | Chair, Technology Division, Academic Operations |
-| 2017–2019 | Department Chair, Computer and Information Sciences; Program Chair, Information Technology; Program Chair, Cybersecurity |
-| 2003–2017 | Program Chair |
-{: .timeline}
+### Assistant Dean, Computing Sciences and Mathematics
+2024–present
+{: .dates}
 
-## Before Franklin
+- Provide academic leadership and operational oversight for Computer Science, Information Technology, Information Systems, Data Analytics, Cybersecurity, and Cloud Computing.
+- Lead department initiatives that support the university's priorities in enrollment growth, academic innovation, and workforce partnerships.
+- Partner with the Dean and Provost on AI-integrated curriculum, academic integrity, and career connectedness.
+- Work with industry and community organizations such as OhioX, the Tech Community Coalition, and the Columbus AWS User Group to strengthen the university's place in regional technology education.
+- Support student success through data-informed decisions, assessment of learning outcomes, and alignment of curricular and co-curricular learning.
 
-- Associate Professor, DeVry University
-- Software Engineer, Battelle Memorial Institute
-- UNIX Systems Administrator, University of Akron
+### Department Chair, Computing Sciences and Mathematics
+2017–2024
+{: .dates}
+
+- Oversaw 10 full-time and 15 part-time faculty serving more than 700 students per semester.
+- Managed 3 associate, 7 bachelor's, and 6 master's programs in technology and analytics.
+- Set direction on curriculum and enrollment, and built partnerships with industry and other academic institutions.
+- Led innovation in curriculum, teaching, technology, and assessment for the department.
+
+### Program Chair, MS in Information Systems
+2023–present
+{: .dates}
+
+- Developed a master's program in information systems that emphasizes product management and leadership.
+- Coordinated the development of four new courses with subject-matter experts and instructional designers.
+- Hire, coach, and observe part-time faculty.
+
+### Program Chair, Cybersecurity
+2011–2015 and 2017–2023
+{: .dates}
+
+- Researched, proposed, and designed the curriculum for the Information Security major (now Cybersecurity) with industry partners, faculty, and staff. It is one of the university's two largest technology majors.
+- Recruited the program's advisory board.
+- Developed courses in security principles, network security, operations security, risk assessment, application security, security architecture, and the capstone.
+
+### Program Chair, Information Technology
+2003–2020
+{: .dates}
+
+- Designed the Information Technology major with industry partners, faculty, and staff, and recruited and worked with its advisory board.
+- Developed courses in networking, UNIX and Windows administration, software development, data center and database administration, and storage management.
+- Recruited, trained, mentored, and evaluated adjunct faculty for 18 courses.
+- Developed and piloted the university's hybrid course format.
+
+### Lead Faculty, Computer Science and Web Development
+2003–present
+{: .dates}
+
+- Designed the Computer Science programming sequence (COMP 111, 121, and 311) and the networking course (COMP 204).
+- Reworked the programming sequence around industry practice such as test-driven development and automated regression testing.
+- Designed WEBD 236, Web Information Systems Programming, which brings together software development, information systems, and database management.
+
+## Earlier academic roles
+
+### Associate Professor, Computer and Information Systems, DeVry University
+2000–2003
+{: .dates}
+
+- Taught C, C++, and Java programming.
+- Created two new object-oriented programming courses in Java that taught test-driven development and design patterns.
+- Wrote a national curriculum guide used by all DeVry campuses, and piloted the new course.
+
+### Teaching Associate, Computer and Information Science, The Ohio State University
+1997–1998
+{: .dates}
+
+- Taught Introduction to Computer Systems. The course materials he developed were still in use in 2011.
+
+### Teaching Assistant, Mathematics and Computer Science, The University of Akron
+1995–1997
+{: .dates}
+
+- Taught Introductory C Programming.
+- Proposed and taught new classes for the university's Center for Employee Development and Training in computer troubleshooting, HTML, and computer construction.
+
+## Industry
+
+### Researcher, Avionics and Electronics, Battelle Memorial Institute
+1999–2000
+{: .dates}
+
+- Automated configuration management for the Royal Saudi Air Force F-15 Weapons Systems Trainer project, including scripted check-in, check-out, build, release, and verification.
+- Designed and built a JavaScript scheduling system for home automation.
+- Wrote Windows applications for querying and displaying data in an intelligence analysis tool for chemical weapons modeling.
+
+### System Administrator, Mathematics and Computer Science, The University of Akron
+1994–1997
+{: .dates}
+
+- Ran mixed networks of Sun, DEC Alpha, Silicon Graphics, IBM RS/6000, and PC workstations and servers.
+- Handled backups, name servers, web and mail servers, accounts, and shell scripting.
+- Installed a lab of 10 Sun workstations and trained students to help run it.
+- Taught seminars on C and C++, LaTeX, GNU Emacs, and other UNIX software.
 
 ## Education
 
 | Year | Degree |
 |---|---|
-| 2019 | Doctor of Philosophy, Information Systems, Dakota State University, Madison, South Dakota |
-| 1998 | Master of Science, Computer and Information Science, The Ohio State University, Columbus, Ohio |
-| 1997 | Master of Science, Computer Science, University of Akron |
-| 1995 | Bachelor of Science, Computer Science, University of Akron |
+| 2019 | Ph.D., Information Systems, specializing in Information Assurance and Computer Security, Dakota State University |
+| 1998 | M.S., Computer Science, The Ohio State University |
+| 1997 | M.S., Computer Science, The University of Akron |
+| 1995 | B.S., Computer Science, summa cum laude, The University of Akron |
 {: .timeline}

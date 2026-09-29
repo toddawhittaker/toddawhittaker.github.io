@@ -31,10 +31,12 @@
       <nav class="site-nav" aria-label="Site">
         <ul>
           <li><a href="{{ '/' | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>About</a></li>
-          <li><a href="{{ '/publications/' | relative_url }}"{% if page.url == "/publications/" %} aria-current="page"{% endif %}>Publications</a></li>
           <li><a href="{{ '/experience/' | relative_url }}"{% if page.url == "/experience/" %} aria-current="page"{% endif %}>Experience</a></li>
+          <li><a href="{{ '/teaching/' | relative_url }}"{% if page.url == "/teaching/" %} aria-current="page"{% endif %}>Teaching</a></li>
+          <li><a href="{{ '/publications/' | relative_url }}"{% if page.url == "/publications/" %} aria-current="page"{% endif %}>Publications</a></li>
           <li><a href="{{ '/service/' | relative_url }}"{% if page.url == "/service/" %} aria-current="page"{% endif %}>Service</a></li>
           <li><a href="{{ '/CSM-AI-Policy/' | relative_url }}"{% if page.url == "/CSM-AI-Policy/" %} aria-current="page"{% endif %}>AI Policy</a></li>
+          <li><a href="https://layer8learning.substack.com/" target="_blank">Blog</a></li>
         </ul>
       </nav>
     </header>
