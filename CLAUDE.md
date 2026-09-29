@@ -21,14 +21,16 @@ Never commit directly to `main`, and never merge into it without being asked.
 ## Layout
 
 - The site is served from the `docs/` folder, not the repository root. The root `README.md` is not part of the site.
-- `docs/_config.yml` sets the `jekyll-theme-slate` theme and puts HTML links in `title` and `description`, which the theme renders in the page header.
-- `docs/assets/css/style.scss` imports the theme's stylesheet. Add style overrides below the import. The empty front matter (`---` / `---`) at the top is required so Jekyll processes the file.
-- `docs/README.md` is the site's home page and links to each sub-page.
-- Each sub-page lives in its own folder with an `index.md` and its images, so it is served at `/<folder>/`. The only one today is `docs/CSM-AI-Policy/`, the generative AI use policy for the Computing Sciences and Mathematics department at Franklin University.
+- `docs/_config.yml` puts HTML links in `title` and `description`, which the layout renders in the page header. There is no theme; the site uses its own layout and stylesheet.
+- `docs/_layouts/default.html` is the one page layout. It holds the header (with the GitHub profile photo on the home page only) and the site navigation, which is a hand-written list. Add a new page to that list.
+- `docs/assets/css/style.scss` is the whole stylesheet (IBM Plex Sans and Mono, light and dark colors). The empty front matter (`---` / `---`) at the top is required so Jekyll processes the file. GitHub Pages compiles it with an old Sass (Ruby Sass 3.7) that rejects CSS `clamp()` and `min()`, so wrap those in `unquote("...")`.
+- `docs/README.md` is the site's home page: a short biography and links to each sub-page.
+- Each sub-page lives in its own folder with an `index.md` and any images, so it is served at `/<folder>/`. Today these are `publications/`, `experience/`, `service/`, and `CSM-AI-Policy/` (the generative AI use policy for the Computing Sciences and Mathematics department at Franklin University). The biography, publications, experience, and service content comes from Todd's [Franklin faculty profile](https://www.franklin.edu/about-us/faculty-staff/faculty-profiles/whittaker-todd).
 
 ## Conventions
 
-- To add a page, create `docs/<Name>/index.md` and add a link to it in `docs/README.md`.
+- To add a page, create `docs/<Name>/index.md`, then link it from `docs/README.md` and the navigation list in `docs/_layouts/default.html`.
+- A page starts with a `#` title and an italic subtitle line, then `##` sections. Tables with a date column take `{: .timeline}` after them.
 - Pages use kramdown (Jekyll's default Markdown processor) extensions such as `{:target="_blank"}` to open links in a new tab.
 
 ## Previewing locally

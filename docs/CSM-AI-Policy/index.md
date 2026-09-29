@@ -11,7 +11,7 @@ In essence, if the AI is replacing your thinking, problem-solving, writing, or l
 While generative AI can be powerful and will undoubtedly become more prevalent in the workplace as a force-multiplier and accelerator, relying solely on these tools without a solid foundation of fundamental skills will severely limit your ability to add value to future employers. It is your responsibility to understand whether a tool you are using is employing generative AI or not. Ignorance of this distinction is not an excuse for violating this policy. If you have doubts, ask your instructor.
 
 By adhering to this policy, you will develop stronger analytical, communication, and programming skills that are invaluable for your academic and professional future. This foundation will ensure that you are more than just an operator of AI tools, but a knowledgeable and valuable asset in any professional setting.
-# Examples
+## Examples
 
 Here are some examples of permitted and prohibited prompts. Notice that the distinction between the columns is that one seeks to learn and understand new concepts for self-application while the other seeks to have the work done for you.
 
@@ -25,13 +25,14 @@ Here are some examples of permitted and prohibited prompts. Notice that the dist
 | What are the key characteristics of the graph of a polynomial function? How do changes in coefficients affect its shape? | Determine the vertex and axis of symmetry for the quadratic function f(x) = -3x² + 6x - 2. Show step-by-step work. |
 | How do you interpret a *p*-value in hypothesis testing? Provide a detailed explanation. | Perform a *t*-test on the following two samples and determine if there is a significant difference. Provide a detailed interpretation of the results and the steps performed. Sample 1: `[5, 7, 8, 6, 7]`, Sample 2: `[10, 9, 11, 12, 10]`. |
 | I have an exam that includes topics in database normalization. Can you generate 5 possible normalization questions/scenarios for me so that I can practice answering? | Here is a table of data for a normalization scenario. Show me the steps for bringing this design into 3NF. |
+{: .compare}
 
-# Tools
+## Tools
 
 If you wish, you can interact with a [custom GPT](https://chatgpt.com/g/g-4duNViDGC-generative-ai-usage-policy-checker){:target="_blank"} that will answer questions about possible scenarios (an OpenAI account is required). Although this GPT is _not_ authoritative, it can answer basic questions in a remarkable number of situations. Here are some examples using the scenarios above showing how it answers.
 
-## Prohibited example
-![AI use prohibited screenshot](./AI_use_prohibited.png)
+### Prohibited example
+![Screenshot of the policy checker GPT. Asked to write SQL that joins the Customer and Order tables and shows only orders over $100.00, it answers that the task would appear to be prohibited, because writing the SQL is a skill students should develop themselves, and suggests asking how to perform a SQL join and filter results instead.](./AI_use_prohibited.png){: width="957" height="827"}
 
-## Permitted example
-![AI use permitted screenshot](./AI_use_permitted.png)
+### Permitted example
+![Screenshot of the policy checker GPT. Asked how to join two tables and filter the results in SQL, it first asks whether this is part of an assignment or a general concept. Told it is a general concept, it answers that the use would appear to be permitted as tutoring, and reminds the student to cite the AI in APA style and share the chat transcript with the instructor.](./AI_use_permitted.png){: width="941" height="1526"}
