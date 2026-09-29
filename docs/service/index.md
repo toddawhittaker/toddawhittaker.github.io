@@ -11,7 +11,7 @@ title: Service
 | Years | Role |
 |---|---|
 | Current | Chair, Career Connectedness Steering Committee |
-| Current | Member, Learning & Assessment in the Age of AI Committee |
+| Current | Co-chair, Learning & Assessment in the Age of AI Committee |
 | 2024–2026 | Co-chair, Academic Integrity Tools Subcommittee |
 | 2021–2022 | Chair, Institutional Review Board |
 | 2019–2021 | Co-chair, Academic Operations Committee |
