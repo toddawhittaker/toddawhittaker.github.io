@@ -28,7 +28,8 @@ title: Experience
 - Work with industry and community organizations such as OhioX, the Tech Community Coalition, and the Columbus AWS User Group to strengthen the university's place in regional technology education.
 - Chair Franklin University's Career Connectedness Steering Committee, which coordinates four cross-functional workstreams linking curriculum, co-curricular learning, employer engagement, and student career outcomes.
 - Designed and launched PF 511, Technology Career Foundations and Professional Networking, and presented the department's career-connectedness plan to the President's Advisory Council.
-- Provided direction and leadership for the faculty who built the graduate AI Leadership specialization (AI 701–704), shared between the College of Arts, Sciences & Technology and the Ross College of Business.
+- Wrote the full proposal for the graduate AI Leadership specialization (AI 701–704), a cross-college collaboration with the Ross College of Business, and delegated its courses to faculty.
+- Provided guidance and leadership oversight for the MS in Artificial Intelligence, proposed by Dr. Chunbo Chu and approved to launch in spring 2027.
 - Designed the university's shared AI service, which IT now runs to give faculty and staff metered access to leading AI models.
 - Co-designed Course Pulse with Dr. Jiang Li: an AI tool, built on the Canvas learning management system, that about ten faculty in the department use to spot late grading and students at risk.
 - Redesigned the MS in Information Systems as a 24-credit core plus a 12-credit specialization, with five specializations to choose from.
@@ -44,7 +45,7 @@ title: Experience
 - Provided direction and leadership for the faculty who built the BS in Cloud Computing and the BS in Analytics, and presented both to the academic subcommittee of the Board of Trustees.
 - Redesigned the BS in Information Systems as a multidisciplinary major spanning business, healthcare, and analytics.
 - Aligned four courses with industry certifications from CompTIA: Network+, Security+, Linux+, and Cloud Essentials+.
-- Provided direction and leadership for the faculty who built MIS 425, Low-Code Application Development, with the industry partner Appsmith.
+- Developed MIS 425, Low-Code Application Development, with Roberta Niche, Tyler Whitney, and the industry partner Appsmith.
 - Led the work to keep the university's designation as a National Center of Academic Excellence in Cybersecurity from the National Security Agency and the Department of Homeland Security, including the annual reports and the Program of Study designation for the MS in Cybersecurity.
 - Grew Spring 2024 enrollment in the department by 43% over the year before.
 
@@ -60,7 +61,7 @@ title: Experience
 2011–2015 and 2017–2023
 {: .dates}
 
-- Researched, proposed, and designed the curriculum for the Information Security major (now Cybersecurity) with industry partners, faculty, and staff. It is one of the university's two largest technology majors.
+- Researched, proposed, and built the BS in Information Security (now Cybersecurity) in 2010, working with industry partners, faculty, and staff. It is one of the university's two largest technology majors.
 - Recruited the program's advisory board.
 - Developed courses in security principles, network security, operations security, risk assessment, application security, security architecture, and the capstone.
 
