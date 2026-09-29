@@ -33,6 +33,6 @@ Never commit directly to `main`, and never merge into it without being asked.
 
 ## Previewing locally
 
-Run `./preview.sh` and open http://localhost:4000. It runs Jekyll in a Docker container (the `ruby:3.3` image) with the `github-pages` gem, so the output matches the live site. It rebuilds when files change, and Ctrl+C stops it. The first run installs gems into `~/.cache/jekyll-gems` and takes a minute or two.
+Run `./preview.sh` and open http://localhost:4000. Set `PORT` to use another port, for example `PORT=4001 ./preview.sh`. It runs Jekyll in a Docker container (the `ruby:3.3` image) with the `github-pages` gem, so the output matches the live site. It rebuilds when files change, and Ctrl+C stops it. The first run installs gems into `~/.cache/jekyll-gems` and takes a minute or two.
 
 `Gemfile` and `_config.preview.yml` exist only for this preview. GitHub Pages ignores both because they sit outside `docs/`. The preview config stops Jekyll from adding a "View on GitHub" banner and footer that the live site does not show.
