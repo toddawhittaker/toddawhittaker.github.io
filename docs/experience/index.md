@@ -42,7 +42,8 @@ title: Experience
 - Oversaw 10 full-time and 15 part-time faculty serving more than 700 students per semester.
 - Managed 3 associate, 7 bachelor's, and 6 master's programs in technology and analytics, and set their curriculum and enrollment direction.
 - Built partnerships with industry and other academic institutions.
-- Provided direction and leadership for the faculty who built the BS in Cloud Computing and the BS in Analytics, and presented both to the academic subcommittee of the Board of Trustees.
+- Provided direction and leadership for the BS in Cloud Computing, built by Mohammad Abu Shattal, and the BS in Analytics, built by Jiang Li and Nimet Alpay, and presented both to the academic subcommittee of the Board of Trustees.
+- Developed GRAD 610, a graduate internship course, in 2023.
 - Redesigned the BS in Information Systems as a multidisciplinary major spanning business, healthcare, and analytics.
 - Aligned four courses with industry certifications from CompTIA: Network+, Security+, Linux+, and Cloud Essentials+.
 - Developed MIS 425, Low-Code Application Development, with Roberta Niche, Tyler Whitney, and the industry partner Appsmith.
