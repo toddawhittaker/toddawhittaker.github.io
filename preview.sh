@@ -5,7 +5,9 @@
 set -e
 cd "$(dirname "$0")"
 mkdir -p "$HOME/.cache/jekyll-gems"
-exec docker run --rm -it \
+# Attach a terminal only when there is one, so the script also runs in the background.
+[ -t 0 ] && tty_flags=-it
+exec docker run --rm $tty_flags \
   -u "$(id -u):$(id -g)" \
   -e HOME=/tmp -e BUNDLE_PATH=/gems \
   -e PAGES_REPO_NWO=toddawhittaker/toddawhittaker.github.io \
