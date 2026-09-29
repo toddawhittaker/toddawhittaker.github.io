@@ -11,7 +11,8 @@ title: Service
 | Years | Role |
 |---|---|
 | Current | Chair, Career Connectedness Steering Committee |
-| 2024–2025 | Co-chair, Academic Integrity Tools Subcommittee |
+| Current | Member, Learning & Assessment in the Age of AI Committee |
+| 2024–2026 | Co-chair, Academic Integrity Tools Subcommittee |
 | 2019–2021 | Co-chair, Academic Operations Committee |
 | 2017–2019 | Co-chair, Student Success Initiative |
 | 2016 | Chair, Academic Technology Committee |
