@@ -12,11 +12,10 @@ title: Experience
 - Grew enrollment over six years by 67% in undergraduate programs and 100% in graduate programs.
 - Designed and launched five programs (the MS, BS, and AS in Cybersecurity, the MS in Information Technology, and the MS in Information Systems) and two graduate certificates (Cyber Defense and Cyber Governance). Guided faculty through three minors and two more undergraduate majors.
 - Developed TECH (Technology Engagement for Career Horizons), which builds co-curricular experiences, micro-internships, and employer projects into the curriculum.
-- Led the department's strategy on artificial intelligence and academic integrity through institutional policy, assessment design that holds up to AI, and AI tools that answer questions from course and program documents.
-- Ran program-health audits and cleaned up curriculum data, such as catalog corrections and prerequisite audits, so assessment is accurate and advising can be automated.
-- Built regional community and industry partnerships that turn academic capacity into employer-facing projects.
+- Led the department's approach to AI and academic integrity: the policy, assessment that holds up when students use AI, and tools that answer questions from program documents.
+- Ran program-health audits and corrected curriculum data, such as catalog corrections and prerequisite audits, so assessment is accurate and advising can be automated.
+- Built partnerships with regional employers and community groups that give students real projects.
 - Mentored new chairs and adjunct faculty, chaired three doctoral dissertations, and led adjunct hiring, onboarding, and engagement during rapid growth.
-- Chair Franklin University's Career Connectedness Steering Committee, which coordinates four cross-functional workstreams linking curriculum, co-curricular learning, employer engagement, and student career outcomes.
 
 ## Franklin University
 
@@ -25,19 +24,17 @@ title: Experience
 {: .dates}
 
 - Provide academic leadership and operational oversight for Computer Science, Information Technology, Information Systems, Data Analytics, Cybersecurity, and Cloud Computing.
-- Lead department initiatives that support the university's priorities in enrollment growth, academic innovation, and workforce partnerships.
 - Partner with the Dean and Provost on AI-integrated curriculum, academic integrity, and career connectedness.
 - Work with industry and community organizations such as OhioX, the Tech Community Coalition, and the Columbus AWS User Group to strengthen the university's place in regional technology education.
-- Support student success through data-informed decisions, assessment of learning outcomes, and alignment of curricular and co-curricular learning.
+- Chair Franklin University's Career Connectedness Steering Committee, which coordinates four cross-functional workstreams linking curriculum, co-curricular learning, employer engagement, and student career outcomes.
 
 ### Department Chair, Computing Sciences and Mathematics
 2017–2024
 {: .dates}
 
 - Oversaw 10 full-time and 15 part-time faculty serving more than 700 students per semester.
-- Managed 3 associate, 7 bachelor's, and 6 master's programs in technology and analytics.
-- Set direction on curriculum and enrollment, and built partnerships with industry and other academic institutions.
-- Led innovation in curriculum, teaching, technology, and assessment for the department.
+- Managed 3 associate, 7 bachelor's, and 6 master's programs in technology and analytics, and set their curriculum and enrollment direction.
+- Built partnerships with industry and other academic institutions.
 
 ### Program Chair, MS in Information Systems
 2023–present

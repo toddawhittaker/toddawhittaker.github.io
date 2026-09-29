@@ -48,7 +48,7 @@ A watchdog for pfSense routers running Tailscale, a private network service. Whe
 
 ## How I build with AI
 
-I build these projects with heavy use of AI coding assistants, and I say so plainly. In [AI-Assisted Software Engineering](https://github.com/toddawhittaker/ipeds-oracle/blob/main/docs/AI_ASSISTED_ENGINEERING.md){:target="_blank"}, I argue that AI is the next step in a long line of programming abstractions. Like compilers before it, it draws the charge that it "isn't real engineering," and like them, it moves the engineer's judgment up a level rather than removing it.
+I build these projects with heavy use of AI coding assistants. In [AI-Assisted Software Engineering](https://github.com/toddawhittaker/ipeds-oracle/blob/main/docs/AI_ASSISTED_ENGINEERING.md){:target="_blank"}, I argue that AI is the next step in a long line of programming abstractions. Like compilers before it, it draws the charge that it "isn't real engineering," and like them, it moves the engineer's judgment up a level rather than removing it.
 
 The line was never whether a model helped write the code. It's whether the change was subjected to engineering discipline. In my projects, that discipline means:
 
@@ -58,4 +58,4 @@ The line was never whether a model helped write the code. It's whether the chang
 - explicit review passes for correctness, security, and accessibility; and
 - documentation updated in the same change as the code it describes.
 
-The assistant speeds up the writing, and the gates decide what survives. Judge my software, and anyone's, by its tests, its structure, its security, and whether it does what it claims, not by the tools that produced it.
+The assistant speeds up the writing, and the gates decide what survives. Software, mine included, should be judged by its tests, its structure, its security, and whether it does what it claims, not by the tools that produced it.

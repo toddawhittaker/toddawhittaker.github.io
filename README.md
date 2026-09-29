@@ -4,7 +4,7 @@ This is the source for [toddawhittaker.github.io](https://toddawhittaker.github.
 
 ## What's on the site
 
-- [AI Acceptable Use Policy](https://toddawhittaker.github.io/CSM-AI-Policy/): the department's policy on students' use of generative AI tools, with examples of permitted and prohibited prompts.
+- [Generative AI Use Policy](https://toddawhittaker.github.io/CSM-AI-Policy/): the department's policy on students' use of generative AI tools, with examples of permitted and prohibited prompts.
 
 ## How it works
 

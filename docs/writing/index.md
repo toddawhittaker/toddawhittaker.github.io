@@ -24,7 +24,7 @@ June 10, 2026
 
 I used an AI coding agent to build a real piece of infrastructure software, the [Tailscale watchdog for pfSense](/projects/), in about five hours. The pace was remarkable, but the decisions that mattered most came from systems thinking, not syntax. That raises the question computing educators now face: which fundamentals still matter, at what depth, and how do we assess judgment when students can generate working code quickly?
 
-### [Before the Debt Is Incurred](https://layer8learning.substack.com/p/before-the-debt-is-incurred){:target="_blank"}
+### [Before the Debt is Incurred](https://layer8learning.substack.com/p/before-the-debt-is-incurred){:target="_blank"}
 May 7, 2026
 {: .dates}
 
