@@ -11,7 +11,7 @@ title: Experience
 - Managed 10 full-time and 15 part-time faculty, and instructional operations for more than 1,200 students per semester.
 - Grew enrollment over six years by 67% in undergraduate programs and 100% in graduate programs.
 - Designed and launched five programs (the MS, BS, and AS in Cybersecurity, the MS in Information Technology, and the MS in Information Systems) and two graduate certificates (Cyber Defense and Cyber Governance). Guided faculty through three minors and two more undergraduate majors.
-- Developed TECH (Technology Engagement for Career Horizons), which builds co-curricular experiences, micro-internships, and employer projects into the curriculum.
+- Conceived and launched TECH (Technology Engagement for Career Horizons), which builds co-curricular experiences, micro-internships, and employer projects into the curriculum. Dr. Nimet Alpay and Dr. Kemal Aydin lead its implementation.
 - Led the department's approach to AI and academic integrity: the policy, assessment that holds up when students use AI, and tools that answer questions from program documents.
 - Ran program-health audits and corrected curriculum data, such as catalog corrections and prerequisite audits, so assessment is accurate and advising can be automated.
 - Built partnerships with regional employers and community groups that give students real projects.
@@ -33,7 +33,7 @@ title: Experience
 - Designed the university's shared AI service, which IT now runs to give faculty and staff metered access to leading AI models.
 - Co-designed Course Pulse with Dr. Jiang Li: an AI tool, built on the Canvas learning management system, that about ten faculty in the department use to spot late grading and students at risk.
 - Redesigned the MS in Information Systems as a 24-credit core plus a 12-credit specialization, with five specializations to choose from.
-- Started BITS (Business and Industry Technical Solutions), an applied-project program in which students do scoped technology work for real clients and publish the results as portfolio evidence. I benchmarked it against peer institutions, handed it to Dr. Nimet Alpay to run, and am building its public site, Kite & Key IT.
+- Started BITS (Business and Industry Technical Solutions), an applied-project program in which students do scoped technology work for real clients and publish the results as portfolio evidence. I conceived it, benchmarked it against peer institutions, and got it started; Dr. Nimet Alpay and Dr. Kemal Aydin lead its implementation, and I am building its public site, Kite & Key IT.
 - Grew student competition teams. In 2026, 14 students competed in the National Cyber League, where our team ranked 22nd nationally and 7th in individual competition, and seven teams competed at DataFest.
 
 ### Department Chair, Computing Sciences and Mathematics
