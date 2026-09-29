@@ -589,3 +589,16 @@ h3 + .dates {
 h3 + table.timeline {
   margin-block-start: 0.5rem;
 }
+
+// Pull quotes.
+blockquote {
+  margin: 1.5rem 0 0;
+  padding: 0.25rem 0 0.25rem 1.25rem;
+  border-inline-start: 3px solid var(--accent);
+  font-size: 1.125rem;
+  color: var(--text);
+}
+
+blockquote p {
+  margin: 0;
+}

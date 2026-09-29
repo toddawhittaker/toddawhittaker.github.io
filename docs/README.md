@@ -13,6 +13,7 @@ Todd writes [Layer 8 Learning](https://layer8learning.substack.com/){:target="_b
 - [Experience and education](/experience/)
 - [Teaching](/teaching/): courses taught and developed
 - [Publications and presentations](/publications/)
+- [Projects](/projects/): open-source software, and how he builds with AI
 - [Service, awards, and memberships](/service/)
 - The [AI Acceptable Use Policy](/CSM-AI-Policy/) for Computing Sciences and Mathematics
 - Email: [todd.whittaker@franklin.edu](mailto:todd.whittaker@franklin.edu)
