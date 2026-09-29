@@ -36,7 +36,7 @@ I've also served on many Faculty Senate and ad hoc committees.
 | Year | Award |
 |---|---|
 | 2023–2024 | Academic Leadership Fellow, inaugural class, Franklin University |
-| 2022–2023 | Faculty Excellence Award, Strategic Ohio Council for Higher Education (SOCHE) |
+| 2022–2023 | [Faculty Excellence Award](https://www.soche.org/soche-excellence-awards-2022-2023/#ToddWhittaker){:target="_blank"}, Strategic Ohio Council for Higher Education (SOCHE) |
 | 1999 | Best Paper Award, Midwest Conference on Parallel Processing |
 {: .timeline}
 
