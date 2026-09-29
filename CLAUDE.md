@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Todd A. Whittaker's personal GitHub Pages site. It is plain Markdown built by Jekyll (a static site generator) on GitHub's servers. There is no Gemfile, no build script, no tests, and no linter. Pushing to `main` publishes the site.
+Todd A. Whittaker's personal GitHub Pages site. It is plain Markdown built by Jekyll (a static site generator) on GitHub's servers. There are no tests and no linter. Pushing to `main` publishes the site, so day-to-day work happens on the `draft` branch. To publish, merge `draft` into `main` and push. Do not commit to or merge into `main` unless asked.
 
 ## Layout
 
@@ -21,4 +21,6 @@ Todd A. Whittaker's personal GitHub Pages site. It is plain Markdown built by Je
 
 ## Previewing locally
 
-No local setup is committed. To preview, you would need Ruby and the `github-pages` gem, then run `bundle exec jekyll serve --source docs` from a Gemfile containing `gem "github-pages"`. Do not commit that Gemfile unless asked.
+Run `./preview.sh` and open http://localhost:4000. It runs Jekyll in a Docker container (the `ruby:3.3` image) with the `github-pages` gem, so the output matches the live site. It rebuilds when files change, and Ctrl+C stops it. The first run installs gems into `~/.cache/jekyll-gems` and takes a minute or two.
+
+`Gemfile` and `_config.preview.yml` exist only for this preview. GitHub Pages ignores both because they sit outside `docs/`. The preview config stops Jekyll from adding a "View on GitHub" banner and footer that the live site does not show.

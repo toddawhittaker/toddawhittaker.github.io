@@ -1,0 +1,5 @@
+# Local preview settings only (see preview.sh). GitHub Pages never reads this file.
+# Without a GitHub login, Jekyll guesses this is a project site and shows a
+# "View on GitHub" banner and footer that the live site does not have.
+github:
+  is_project_page: false
