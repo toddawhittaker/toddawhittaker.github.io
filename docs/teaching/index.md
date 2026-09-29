@@ -54,7 +54,7 @@ title: Teaching
 
 ## Courses developed
 
-These Franklin University courses he designed and built (syllabi, assignments, slides, and exams), then hired, mentored, and managed the adjunct faculty who teach them.
+I designed and built these Franklin University courses (syllabi, assignments, slides, and exams), then hired, mentored, and managed the adjunct faculty who teach them.
 
 | Course | Title |
 |---|---|

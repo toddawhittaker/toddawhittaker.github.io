@@ -30,6 +30,7 @@ Never commit directly to `main`, and never merge into it without being asked.
 ## Conventions
 
 - To add a page, create `docs/<Name>/index.md`, then link it from `docs/README.md` and the navigation list in `docs/_layouts/default.html`.
+- Pages are written in first person, in Todd's voice ("I oversee..."), not about him.
 - A page starts with a `#` title and an italic subtitle line, then `##` sections. Tables with a date or course-number column take `{: .timeline}` after them. On the experience page, each role is a `###` heading followed by its dates and `{: .dates}`.
 - Pages use kramdown (Jekyll's default Markdown processor) extensions such as `{:target="_blank"}` to open links in a new tab.
 

@@ -46,13 +46,11 @@ Shell
 
 A watchdog for pfSense routers running Tailscale, a private network service. When Tailscale falls back to relaying traffic through its servers even though a direct connection normally works, the watchdog notices and restarts Tailscale to restore the direct link, with an optional notification.
 
-## Building software with AI
+## How I build with AI
 
-These projects are built with heavy use of AI coding assistants, and Todd says so plainly. In [AI-Assisted Software Engineering](https://github.com/toddawhittaker/ipeds-oracle/blob/main/docs/AI_ASSISTED_ENGINEERING.md){:target="_blank"}, he argues that AI is the next step in a long line of programming abstractions. Like compilers before it, it draws the charge that it "isn't real engineering," and like them, it moves the engineer's judgment up a level rather than removing it.
+I build these projects with heavy use of AI coding assistants, and I say so plainly. In [AI-Assisted Software Engineering](https://github.com/toddawhittaker/ipeds-oracle/blob/main/docs/AI_ASSISTED_ENGINEERING.md){:target="_blank"}, I argue that AI is the next step in a long line of programming abstractions. Like compilers before it, it draws the charge that it "isn't real engineering," and like them, it moves the engineer's judgment up a level rather than removing it.
 
-> The line was never whether a model helped write the code. It's whether the change was subjected to engineering discipline.
-
-In practice, that discipline means:
+The line was never whether a model helped write the code. It's whether the change was subjected to engineering discipline. In my projects, that discipline means:
 
 - tests that guard real behavior, written first for anything that can regress;
 - coverage minimums enforced on every module, not just overall;
@@ -60,4 +58,4 @@ In practice, that discipline means:
 - explicit review passes for correctness, security, and accessibility; and
 - documentation updated in the same change as the code it describes.
 
-The assistant speeds up the writing, and the gates decide what survives. His conclusion is to judge software by its tests, its structure, its security, and whether it does what it claims, not by the tools that produced it.
+The assistant speeds up the writing, and the gates decide what survives. Judge my software, and anyone's, by its tests, its structure, its security, and whether it does what it claims, not by the tools that produced it.

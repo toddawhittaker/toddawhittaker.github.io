@@ -20,7 +20,7 @@ title: Service
 | 2007–2008 | Chair, Assessment Committee |
 {: .timeline}
 
-He has also served on many Faculty Senate and ad hoc committees.
+I've also served on many Faculty Senate and ad hoc committees.
 
 ## Advisory boards
 
@@ -41,7 +41,7 @@ He has also served on many Faculty Senate and ad hoc committees.
 
 ## Reviewing
 
-He has reviewed papers for:
+I've reviewed papers for:
 
 - EISTA (Education and Information Systems, Technologies and Applications)
 - SIGITE, the Association for Computing Machinery's Special Interest Group for Information Technology Education

@@ -86,7 +86,7 @@ title: Experience
 1997–1998
 {: .dates}
 
-- Taught Introduction to Computer Systems. The course materials he developed were still in use in 2011.
+- Taught Introduction to Computer Systems. The course materials I developed were still in use in 2011.
 
 ### Teaching Assistant, Mathematics and Computer Science, The University of Akron
 1995–1997
