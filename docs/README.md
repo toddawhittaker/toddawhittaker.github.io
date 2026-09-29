@@ -7,15 +7,3 @@ Outside of work, I enjoy time with my family, camping, hiking, gardening, and le
 ## Writing
 
 I write [Layer 8 Learning](https://layer8learning.substack.com/){:target="_blank"}, where I think in public about computing, higher education, leadership, and the changing shape of professional work. My recent essays look at how generative AI changes what student work can show, which technical fundamentals still matter when AI helps build software, and how colleges protect the value of their own degrees.
-
-## Around this site
-
-- [Experience and education](/experience/)
-- [Teaching](/teaching/): courses taught and developed
-- [Publications and presentations](/publications/)
-- [Projects](/projects/): open-source software, and how I build with AI
-- [Service, awards, and memberships](/service/)
-- The [AI Acceptable Use Policy](/CSM-AI-Policy/) for Computing Sciences and Mathematics
-- Email: [todd.whittaker@franklin.edu](mailto:todd.whittaker@franklin.edu)
-- GitHub: [toddawhittaker](https://github.com/toddawhittaker){:target="_blank"}
-- LinkedIn: [toddwhittaker](https://www.linkedin.com/in/toddwhittaker/){:target="_blank"}

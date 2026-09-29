@@ -441,24 +441,6 @@ p:has(> img:only-child) {
   margin-block-start: 1.25rem;
 }
 
-// Home page link list: a plain index, one entry per row.
-
-.home .content > ul {
-  list-style: none;
-  padding: 0;
-  border-block-start: 1px solid var(--rule);
-}
-
-.home .content > ul > li {
-  margin: 0;
-  padding-block: 0.85rem;
-  border-block-end: 1px solid var(--rule);
-}
-
-.home .content > ul > li > a {
-  font-weight: 600;
-}
-
 // Home page header: GitHub photo beside the name.
 
 .site-header-inner {
@@ -595,6 +577,36 @@ h3 + .dates {
 // Table headings inside a section sit closer to the section heading.
 h3 + table.timeline {
   margin-block-start: 0.5rem;
+}
+
+// Contact links at the bottom of every page.
+
+.site-footer {
+  border-block-start: 1px solid var(--rule);
+}
+
+.site-footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.5rem;
+  max-width: calc(var(--measure) + 2 * var(--gutter));
+  margin: 0 auto;
+  padding: 1.25rem var(--gutter) 2rem;
+  list-style: none;
+  font-family: var(--mono);
+  font-size: 0.8125rem;
+}
+
+.site-footer li + li {
+  margin: 0;
+}
+
+.site-footer a {
+  color: var(--muted);
+}
+
+.site-footer a:hover {
+  color: var(--text);
 }
 
 // Pull quotes.
