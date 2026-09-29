@@ -4,7 +4,19 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Todd A. Whittaker's personal GitHub Pages site. It is plain Markdown built by Jekyll (a static site generator) on GitHub's servers. There are no tests and no linter. Pushing to `main` publishes the site, so day-to-day work happens on the `draft` branch. To publish, merge `draft` into `main` and push. Do not commit to or merge into `main` unless asked.
+Todd A. Whittaker's personal GitHub Pages site. It is plain Markdown built by Jekyll (a static site generator) on GitHub's servers. There are no tests and no linter. Pushing to `main` publishes the site, so see the workflow below before committing.
+
+## Workflow
+
+1. Work on the `draft` branch. Commit and push there freely. The website does not change, although the repository is public, so anything pushed is visible on GitHub.
+2. Check changes with `./preview.sh` (see below) before publishing.
+3. Publish only when Todd says to, by merging `draft` into `main` and returning to `draft`:
+
+   ```sh
+   git switch main && git merge draft && git push && git switch draft
+   ```
+
+Never commit directly to `main`, and never merge into it without being asked.
 
 ## Layout
 
