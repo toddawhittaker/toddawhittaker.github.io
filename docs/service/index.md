@@ -47,6 +47,8 @@ I've reviewed papers for:
 - EISTA (Education and Information Systems, Technologies and Applications)
 - SIGITE, the Association for Computing Machinery's Special Interest Group for Information Technology Education
 - CCSC-MW, the Consortium for Computing Sciences in Colleges Midwest Regional Conference
+- CAIS, *Communications of the Association for Information Systems*
+- IACIS, the International Association for Computer Information Systems International Conference
 
 ## Memberships
 
