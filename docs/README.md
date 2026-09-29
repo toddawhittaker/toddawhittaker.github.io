@@ -17,3 +17,4 @@ Todd writes [Layer 8 Learning](https://layer8learning.substack.com/){:target="_b
 - The [AI Acceptable Use Policy](/CSM-AI-Policy/) for Computing Sciences and Mathematics
 - Email: [todd.whittaker@franklin.edu](mailto:todd.whittaker@franklin.edu)
 - GitHub: [toddawhittaker](https://github.com/toddawhittaker){:target="_blank"}
+- LinkedIn: [toddwhittaker](https://www.linkedin.com/in/toddwhittaker/){:target="_blank"}
