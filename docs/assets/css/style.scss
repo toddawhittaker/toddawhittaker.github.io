@@ -53,11 +53,16 @@
 html {
   // Keep headings reached by in-page links from hiding under the pinned menu.
   scroll-padding-top: 4.5rem;
+  scroll-padding-bottom: 3rem;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
 
+// A column layout lets the main content grow, so the footer sits at the bottom of the window even on short pages.
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   margin: 0;
   background: var(--bg);
   color: var(--text);
@@ -180,6 +185,8 @@ a[target="_blank"]::after {
     [content-start] unquote("min(var(--measure), 100% - 2 * var(--gutter))")
     [content-end] minmax(0, calc((var(--wide) - var(--measure)) / 2))
     [wide-end] minmax(var(--gutter), 1fr) [full-end];
+  flex: 1 0 auto;
+  align-content: start;
   padding-block: 2rem 5rem;
 }
 
@@ -579,9 +586,13 @@ h3 + table.timeline {
   margin-block-start: 0.5rem;
 }
 
-// Contact links at the bottom of every page.
+// Contact links, pinned to the bottom of the window on every page.
 
 .site-footer {
+  position: sticky;
+  bottom: 0;
+  z-index: 1;
+  background: var(--bg);
   border-block-start: 1px solid var(--rule);
 }
 
@@ -591,7 +602,7 @@ h3 + table.timeline {
   gap: 0.25rem 1.5rem;
   max-width: calc(var(--measure) + 2 * var(--gutter));
   margin: 0 auto;
-  padding: 1.25rem var(--gutter) 2rem;
+  padding: 0.6rem var(--gutter);
   list-style: none;
   font-family: var(--mono);
   font-size: 0.8125rem;
