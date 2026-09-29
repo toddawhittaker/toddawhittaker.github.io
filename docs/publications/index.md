@@ -30,7 +30,7 @@ title: Publications
 - Whittaker, T., & Noteboom, C. (2019, November). [*Applying technology acceptance models to curriculum adoption in higher education*](https://cs.franklin.edu/~whittakt/dscportfolio/TAW_CLEAR_Conference_Poster.pdf){:target="_blank"} [Work-in-progress poster]. CLEAR Cyber Leaders Conference.
 - Whittaker, T., & McWherter, L. (2019, July 30). [*How to build a successful 3+1 program between developing CAE partners*](https://cs.franklin.edu/~whittakt/dscportfolio/TAW_3CS_Conference_Slides.pdf){:target="_blank"} [Presentation]. Community College Cyber Summit (3CS), Shreveport, LA.
 - Whittaker, T., & Noteboom, C. (2019, March 27). [*Factors influencing curriculum adoption in undergraduate cybersecurity programs*](https://cs.franklin.edu/~whittakt/dscportfolio/TAW_GRI_Poster.pdf){:target="_blank"} [Work-in-progress poster]. Dakota State University Research Day Symposium, Madison, SD.
-- Whittaker, T., & Talavera, I. (2014, November 14). *Critical thinking in the information technology program: A deciding factor for employability* [Presentation]. Learning Showcase, Franklin University, Columbus, OH.
+- Whittaker, T., & Talavera, I. (2014, November 14). [*Critical thinking in the information technology program: A deciding factor for employability*](https://fuse.franklin.edu/cgi/viewcontent.cgi?article=1027&context=ss2014){:target="_blank"} [Presentation]. Learning Showcase, Franklin University, Columbus, OH.
 
 ## Professional and seminar talks
 
