@@ -33,6 +33,7 @@ title: Experience
 - Designed the university's shared AI service, which IT now runs to give faculty and staff metered access to leading AI models.
 - Co-designed Course Pulse with Dr. Jiang Li: an AI tool, built on the Canvas learning management system, that about ten faculty in the department use to spot late grading and students at risk.
 - Redesigned the MS in Information Systems as a 24-credit core plus a 12-credit specialization, with five specializations to choose from.
+- Started BITS, an applied-project program in which students do scoped technology work for real clients and publish the results as portfolio evidence. I benchmarked it against peer institutions, handed it to Nimet Alpay to run, and am building its public site, Kite & Key IT.
 - Grew student competition teams. In 2026, 14 students competed in the National Cyber League, where our team ranked 22nd nationally and 7th in individual competition, and seven teams competed at DataFest.
 
 ### Department Chair, Computing Sciences and Mathematics
