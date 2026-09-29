@@ -27,6 +27,9 @@ title: Experience
 - Partner with the Dean and Provost on AI-integrated curriculum, academic integrity, and career connectedness.
 - Work with industry and community organizations such as OhioX, the Tech Community Coalition, and the Columbus AWS User Group to strengthen the university's place in regional technology education.
 - Chair Franklin University's Career Connectedness Steering Committee, which coordinates four cross-functional workstreams linking curriculum, co-curricular learning, employer engagement, and student career outcomes.
+- Designed and launched the Experiential Tech Learning Lab (PF 511-T), and presented the department's career-connectedness plan to the President's Advisory Council.
+- Redesigned the MS in Information Systems as a 24-credit core plus a 12-credit specialization, with five specializations to choose from.
+- Grew student competition teams. In 2026, 14 students competed in the National Cyber League, where our team ranked 22nd nationally and 7th in individual competition, and seven teams competed at DataFest.
 
 ### Department Chair, Computing Sciences and Mathematics
 2017–2024
@@ -35,6 +38,12 @@ title: Experience
 - Oversaw 10 full-time and 15 part-time faculty serving more than 700 students per semester.
 - Managed 3 associate, 7 bachelor's, and 6 master's programs in technology and analytics, and set their curriculum and enrollment direction.
 - Built partnerships with industry and other academic institutions.
+- Launched the BS in Cloud Computing and the BS in Analytics, and presented both to the academic subcommittee of the Board of Trustees.
+- Redesigned the BS in Information Systems as a multidisciplinary major spanning business, healthcare, and analytics.
+- Aligned four courses with industry certifications from CompTIA: Network+, Security+, Linux+, and Cloud Essentials+.
+- Developed MIS 425, Low-Code Application Development, with the industry partner Appsmith.
+- Led the work to keep the university's designation as a National Center of Academic Excellence in Cybersecurity from the National Security Agency and the Department of Homeland Security, including the annual reports and the Program of Study designation for the MS in Cybersecurity.
+- Grew Spring 2024 enrollment in the department by 43% over the year before.
 
 ### Program Chair, MS in Information Systems
 2023–present
