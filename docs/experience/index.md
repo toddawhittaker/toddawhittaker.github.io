@@ -27,7 +27,7 @@ title: Experience
 - Partner with the Dean and Provost on AI-integrated curriculum, academic integrity, and career connectedness.
 - Work with industry and community organizations such as OhioX, the Tech Community Coalition, and the Columbus AWS User Group to strengthen the university's place in regional technology education.
 - Chair Franklin University's Career Connectedness Steering Committee, which coordinates four cross-functional workstreams linking curriculum, co-curricular learning, employer engagement, and student career outcomes.
-- Designed and launched PF 511, Technology Career Foundations and Professional Networking, and presented the department's career-connectedness plan to the President's Advisory Council.
+- Launched PF 511, Technology Career Foundations and Professional Networking. Prof. John Fulton designed most of it, drawing on our joint experience teaching a combined MS-level capstone course. I also presented the department's career-connectedness plan to the President's Advisory Council.
 - Wrote the full proposal for the graduate AI Leadership specialization (AI 701–704), a cross-college collaboration with the Ross College of Business, and delegated its courses to faculty.
 - Provided guidance and leadership oversight for the MS in Artificial Intelligence, proposed by Dr. Chunbo Chu and approved to launch in spring 2027.
 - Partner with Franklin's IT department on university-wide AI initiatives. I designed the shared AI service that IT now runs: a LiteLLM gateway that routes requests to leading AI models with metered access, and an Open WebUI chat interface for faculty and staff. We also build custom chatbots that support academic integrity.
