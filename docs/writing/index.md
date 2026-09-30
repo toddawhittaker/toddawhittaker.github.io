@@ -12,6 +12,12 @@ You can [subscribe for free on Substack](https://layer8learning.substack.com/){:
 
 ## Essays
 
+### [When the Friction is the Point](https://layer8learning.substack.com/p/when-the-friction-is-the-point){:target="_blank"}
+September 29, 2026
+{: .dates}
+
+Students fairly ask why a professor who uses AI every day would forbid it on their assignments. My answer is that the work serves different purposes: my software is meant to work, while a student's assignment is evidence of what the student has learned, and the struggle is often where that learning happens. Research on desirable difficulties, AI tutoring, and novice programmers backs this up. The principle I hold myself to is to use AI where it extends your abilities and be much more careful where it would keep you from building them. That also obliges faculty to explain what each difficulty teaches, to teach AI use deliberately where it fits, and to disclose our own use.
+
 ### [When Fluency Stops Proving Thought](https://layer8learning.substack.com/p/when-fluency-stops-proving-thought){:target="_blank"}
 June 30, 2026
 {: .dates}

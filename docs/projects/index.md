@@ -60,4 +60,4 @@ The line was never whether a model helped write the code. It's whether the chang
 
 The assistant speeds up the writing, and the gates decide what survives. Software, mine included, should be judged by its tests, its structure, its security, and whether it does what it claims, not by the tools that produced it.
 
-This site is no exception: I built it with an AI coding assistant ([source on GitHub](https://github.com/toddawhittaker/toddawhittaker.github.io){:target="_blank"}), and I say so for the same reason [our policy](/CSM-AI-Policy/) asks students to cite their AI use.
+This site is no exception: I built it with an AI coding assistant ([source on GitHub](https://github.com/toddawhittaker/toddawhittaker.github.io){:target="_blank"}), and I say so for the same reason [our policy](/CSM-AI-Policy/) asks students to cite their AI use. Why I use it freely here but ask students to hold back on their assignments is the subject of my essay [When the Friction is the Point](https://layer8learning.substack.com/p/when-the-friction-is-the-point){:target="_blank"}.
